@@ -1,4 +1,4 @@
-\
+
 /* EN↔EE sõnavara treener — vanilla JS, GitHub Pages friendly */
 const $ = (id) => document.getElementById(id);
 
