@@ -1,0 +1,96 @@
+:root{
+  --bg:#0b0f14;
+  --card:#121826;
+  --text:#e7eefc;
+  --muted:#9fb0d0;
+  --line:#202a3d;
+  --btn:#2a57ff;
+  --btn2:#1b2436;
+  --good:#17c964;
+  --bad:#ff4d4d;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background:var(--bg);
+  color:var(--text);
+}
+.wrap{max-width:980px;margin:0 auto;padding:18px}
+h1{margin:0 0 6px;font-size:26px}
+.h2{margin:0 0 10px;font-size:18px}
+.muted{color:var(--muted)}
+.small{font-size:13px}
+.card{
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:14px;
+  padding:16px;
+  margin:12px 0;
+  box-shadow: 0 12px 30px rgba(0,0,0,.22);
+}
+.row{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  align-items:end;
+}
+label{display:flex;flex-direction:column;gap:6px;font-size:13px;color:var(--muted)}
+select{
+  background:#0f1522;
+  border:1px solid var(--line);
+  color:var(--text);
+  border-radius:10px;
+  padding:10px 12px;
+  min-width:160px;
+}
+.btn{
+  background:var(--btn);
+  border:none;
+  color:white;
+  padding:10px 14px;
+  border-radius:10px;
+  cursor:pointer;
+  font-weight:600;
+}
+.btn.secondary{background:var(--btn2);border:1px solid var(--line);color:var(--text)}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.divider{height:1px;background:var(--line);margin:14px 0}
+.flash{
+  padding:18px;
+  border:1px dashed var(--line);
+  border-radius:14px;
+  margin:12px 0;
+  background:#0f1522;
+}
+.prompt{font-size:22px;font-weight:700;line-height:1.2}
+.answer{margin-top:10px;font-size:18px;color:#cfe0ff}
+.cardTop{display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between}
+.pill{
+  background:#0f1522;
+  border:1px solid var(--line);
+  padding:6px 10px;
+  border-radius:999px;
+  font-size:13px;
+  color:var(--muted);
+}
+.options{display:grid;gap:10px;margin:14px 0}
+.opt{
+  text-align:left;
+  width:100%;
+  padding:12px 14px;
+  border-radius:12px;
+  border:1px solid var(--line);
+  background:#0f1522;
+  color:var(--text);
+  cursor:pointer;
+  font-weight:600;
+}
+.opt.correct{border-color:rgba(23,201,100,.7); background:rgba(23,201,100,.08)}
+.opt.wrong{border-color:rgba(255,77,77,.7); background:rgba(255,77,77,.08)}
+@media (max-width:560px){
+  h1{font-size:22px}
+  select{min-width: 100%}
+  .btn{width:100%}
+  .cardTop{justify-content:flex-start}
+}

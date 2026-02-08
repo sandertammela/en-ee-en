@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="et">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>EN↔EE sõnavara treener (U17–32)</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="wrap">
+    <h1>EN↔EE sõnavara treener <span class="muted">(U17–32)</span></h1>
+    <p class="muted">1:1 sõnapaarid. Režiimid: flashcard + valikvastustega test.</p>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <div class="row">
+        <label>
+          Suund
+          <select id="direction">
+            <option value="en-ee">EN → EE</option>
+            <option value="ee-en">EE → EN</option>
+          </select>
+        </label>
+
+        <label>
+          Režiim
+          <select id="mode">
+            <option value="cards">Flashcards</option>
+            <option value="quiz">Quiz</option>
+          </select>
+        </label>
+
+        <label>
+          Küsimusi (quiz)
+          <select id="quizCount">
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+            <option value="all">Kõik</option>
+          </select>
+        </label>
+
+        <button id="shuffleBtn" class="btn secondary" type="button">Sega</button>
+        <button id="resetProgressBtn" class="btn secondary" type="button">Nulli progress</button>
+      </div>
+
+      <div class="divider"></div>
+
+      <div id="status" class="muted small">Laen sõnavara…</div>
+    </section>
+
+    <section class="card" id="cardsView" hidden>
+      <div class="cardTop">
+        <div class="pill" id="cardCounter">—</div>
+        <div class="pill" id="knownCounter">Tean: 0</div>
+      </div>
+
+      <div class="flash">
+        <div class="prompt" id="cardPrompt">—</div>
+        <div class="answer" id="cardAnswer" hidden>—</div>
+      </div>
+
+      <div class="row">
+        <button id="revealBtn" class="btn" type="button">Näita vastust</button>
+        <button id="knownBtn" class="btn secondary" type="button">Tean ✅</button>
+        <button id="unknownBtn" class="btn secondary" type="button">Ei tea ❌</button>
+        <button id="nextBtn" class="btn" type="button">Järgmine →</button>
+      </div>
+      <p class="muted small">Nipp: “Tean/ Ei tea” salvestab sinu progressi sellesse brauserisse.</p>
+    </section>
+
+    <section class="card" id="quizView" hidden>
+      <div class="cardTop">
+        <div class="pill" id="quizCounter">—</div>
+        <div class="pill" id="quizScore">Tulemus: 0</div>
+      </div>
+
+      <div class="qblock">
+        <div class="prompt" id="quizPrompt">—</div>
+        <div id="quizOptions" class="options"></div>
+      </div>
+
+      <div class="row">
+        <button id="quizNextBtn" class="btn" type="button" disabled>Järgmine →</button>
+        <button id="quizRestartBtn" class="btn secondary" type="button">Alusta uuesti</button>
+      </div>
+
+      <p class="muted small">Quiz loob automaatselt 4 valikut (1 õige + 3 segajat) sama sõnavara seest.</p>
+    </section>
+
+    <section class="card">
+      <h2 class="h2">Kuidas GitHub Pages’iga avaldada</h2>
+      <ol class="muted">
+        <li>Loo GitHubis uus repo (nt <code>en-ee-trainer</code>).</li>
+        <li>Lae siinsed failid repo juurkausta.</li>
+        <li>Repo → <strong>Settings</strong> → <strong>Pages</strong> → “Deploy from a branch” → Branch: <code>main</code>, Folder: <code>/ (root)</code>.</li>
+        <li>Salvesta — saad avaliku lingi.</li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="wrap muted small">
+    Andmed: <code>data/vocab.json</code> • Töötleb lokaalselt (ilma serverita).
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
