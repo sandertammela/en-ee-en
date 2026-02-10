@@ -1,0 +1,852 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "term": "account",
+      "unit": "26",
+      "sentence": "You register and open an account, then they give you an email address so that you can communicate by email with other users.",
+      "blank": "You register and open an ____, then they give you an email address so that you can communicate by email with other users.",
+      "source": "material"
+    },
+    {
+      "term": "accountancy",
+      "unit": "31",
+      "sentence": "I work in Edinburgh for one of the big accountancy firms.",
+      "blank": "I work in Edinburgh for one of the big ____ firms.",
+      "source": "material"
+    },
+    {
+      "term": "accountant",
+      "unit": "31",
+      "sentence": "The bottom line Accounts Hi, I’m Fiona and I’m an accountant.",
+      "blank": "The bottom line Accounts Hi, I’m Fiona and I’m an ____.",
+      "source": "material"
+    },
+    {
+      "term": "accounting rules",
+      "unit": "31",
+      "sentence": "But it’s possible for a company to show a profit for a particular period because of the way it presents its activities under the accounting standards or accounting rules of one country, and a loss under the rules of another.",
+      "blank": "But it’s possible for a company to show a profit for a particular period because of the way it presents its activities under the accounting standards or ____ of one country, and a loss under the rules of another.",
+      "source": "material"
+    },
+    {
+      "term": "accounting standards",
+      "unit": "31",
+      "sentence": "But it’s possible for a company to show a profit for a particular period because of the way it presents its activities under the accounting standards or accounting rules of one country, and a loss under the rules of another.",
+      "blank": "But it’s possible for a company to show a profit for a particular period because of the way it presents its activities under the ____ or accounting rules of one country, and a loss under the rules of another.",
+      "source": "material"
+    },
+    {
+      "term": "accounts",
+      "unit": "29, 31",
+      "sentence": "5 An Internet banking service starts by allowing customers to see how much money they have in their accounts, and the latest transactions in the order they took place.",
+      "blank": "5 An Internet banking service starts by allowing customers to see how much money they have in their ____, and the latest transactions in the order they took place.",
+      "source": "material"
+    },
+    {
+      "term": "audit",
+      "unit": "31",
+      "sentence": "Sometimes we act as auditors: specialist outside accountants who audit a company’s accounts, that is, we check them at the end of a particular period to see if they give a true and fair view (an accurate and complete picture).",
+      "blank": "Sometimes we act as auditors: specialist outside accountants who ____ a company’s accounts, that is, we check them at the end of a particular period to see if they give a true and fair view (an accurate and complete picture).",
+      "source": "material"
+    },
+    {
+      "term": "auditors",
+      "unit": "31",
+      "sentence": "Sometimes we act as auditors: specialist outside accountants who audit a company’s accounts, that is, we check them at the end of a particular period to see if they give a true and fair view (an accurate and complete picture).",
+      "blank": "Sometimes we act as ____: specialist outside accountants who audit a company’s accounts, that is, we check them at the end of a particular period to see if they give a true and fair view (an accurate and complete picture).",
+      "source": "material"
+    },
+    {
+      "term": "annual report",
+      "unit": "31",
+      "sentence": "Results for a particular year are shown in the company’s annual report.",
+      "blank": "Results for a particular year are shown in the company’s ____.",
+      "source": "material"
+    },
+    {
+      "term": "asset",
+      "unit": "30",
+      "sentence": "Assets, liabilities and the balance sheet Assets CURRENT ASSETS FIXED ASSETS INTANGIBLE ASSETS An asset is something that has value, or the power to earn money.",
+      "blank": "Assets, liabilities and the balance sheet Assets CURRENT ASSETS FIXED ASSETS INTANGIBLE ASSETS An ____ is something that has value, or the power to earn money.",
+      "source": "material"
+    },
+    {
+      "term": "amortization",
+      "unit": "30",
+      "sentence": "This is called depreciation or amortization.",
+      "blank": "This is called depreciation or ____.",
+      "source": "material"
+    },
+    {
+      "term": "amortize",
+      "unit": "30",
+      "sentence": "For example, when we buy new computers, we depreciate them or amortize them over a very short period, usually three years, and a charge for this is shown in the financial records: the value of the equipment is written down each year and written off completely at the end.’ The value of an asset at any one time is its book value.",
+      "blank": "For example, when we buy new computers, we depreciate them or ____ them over a very short period, usually three years, and a charge for this is shown in the financial records: the value of the equipment is written down each year and written off completely at the end.’ The value of an asset at any one time is its book value.",
+      "source": "material"
+    },
+    {
+      "term": "bad debts",
+      "unit": "29",
+      "sentence": "I must remember to pay tax to the Inland Revenue on time!” “There are some companies that owe me money, but I get the feeling I’m never going to get paid: they’re bad debts and I’ve written them off.” Jennifer Kathleen Put these events in the correct order.",
+      "blank": "I must remember to pay tax to the Inland Revenue on time!” “There are some companies that owe me money, but I get the feeling I’m never going to get paid: they’re ____ and I’ve written them off.” Jennifer Kathleen Put these events in the correct order.",
+      "source": "material"
+    },
+    {
+      "term": "balance sheet",
+      "unit": "30",
+      "sentence": "Assets, liabilities and the balance sheet Assets CURRENT ASSETS FIXED ASSETS INTANGIBLE ASSETS An asset is something that has value, or the power to earn money.",
+      "blank": "Assets, liabilities and the ____ Assets CURRENT ASSETS FIXED ASSETS INTANGIBLE ASSETS An asset is something that has value, or the power to earn money.",
+      "source": "material"
+    },
+    {
+      "term": "be on sale",
+      "unit": "27",
+      "sentence": "I’m relying on you!’ A sales meeting Sales 2 Here are some more uses of the word ‘sale’: a make a sale: sell something b be on sale: be available to buy c unit sales: the number of things sold d Sales: a company department e A sale: a period when a shop is charging less than usual for goods f The sales: a period when a lot of shops are having a sale Costs The money that a business spends are its costs: direct costs are directly related to providing the product (e.g.",
+      "blank": "I’m relying on you!’ A sales meeting Sales 2 Here are some more uses of the word ‘sale’: a make a sale: sell something b ____: be available to buy c unit sales: the number of things sold d Sales: a company department e A sale: a period when a shop is charging less than usual for goods f The sales: a period when a lot of shops are having a sale Costs The money that a business spends are its costs: direct costs are directly related to providing the product (e.g.",
+      "source": "material"
+    },
+    {
+      "term": "billing",
+      "unit": "29",
+      "sentence": "Getting paid Shipping and billing When you ask to buy something, you order it, or place an order for it.",
+      "blank": "Getting paid Shipping and ____ When you ask to buy something, you order it, or place an order for it.",
+      "source": "material"
+    },
+    {
+      "term": "bleeding red ink",
+      "unit": "31",
+      "sentence": "They may also use expressions with red ink, saying, for example, that a company is bleeding red ink or haemorrhaging red ink.",
+      "blank": "They may also use expressions with red ink, saying, for example, that a company is ____ or haemorrhaging red ink.",
+      "source": "material"
+    },
+    {
+      "term": "bonds",
+      "unit": "32",
+      "sentence": "Security Lending to companies is often in the form of bonds or debentures, loans with special conditions.",
+      "blank": "Security Lending to companies is often in the form of ____ or debentures, loans with special conditions.",
+      "source": "material"
+    },
+    {
+      "term": "book value",
+      "unit": "30",
+      "sentence": "For example, when we buy new computers, we depreciate them or amortize them over a very short period, usually three years, and a charge for this is shown in the financial records: the value of the equipment is written down each year and written off completely at the end.’ The value of an asset at any one time is its book value.",
+      "blank": "For example, when we buy new computers, we depreciate them or amortize them over a very short period, usually three years, and a charge for this is shown in the financial records: the value of the equipment is written down each year and written off completely at the end.’ The value of an asset at any one time is its ____.",
+      "source": "material"
+    },
+    {
+      "term": "bookkeepers",
+      "unit": "31",
+      "sentence": "We work with the accountants of those companies, and the people who work under them: the bookkeepers.",
+      "blank": "We work with the accountants of those companies, and the people who work under them: the ____.",
+      "source": "material"
+    },
+    {
+      "term": "borrower",
+      "unit": "32",
+      "sentence": "The company borrowing it is the borrower and may refer to the money as borrowing or debt.",
+      "blank": "The company borrowing it is the ____ and may refer to the money as borrowing or debt.",
+      "source": "material"
+    },
+    {
+      "term": "borrowing",
+      "unit": "32",
+      "sentence": "The company borrowing it is the borrower and may refer to the money as borrowing or debt.",
+      "blank": "The company ____ it is the borrower and may refer to the money as borrowing or debt.",
+      "source": "material"
+    },
+    {
+      "term": "bottom line",
+      "unit": "31",
+      "sentence": "The bottom line Accounts Hi, I’m Fiona and I’m an accountant.",
+      "blank": "The ____ Accounts Hi, I’m Fiona and I’m an accountant.",
+      "source": "material"
+    },
+    {
+      "term": "break even",
+      "unit": "28",
+      "sentence": "If costs rise but sales stay flat, the company may only break even and make no profit.",
+      "blank": "If costs rise but sales stay flat, the company may only ____ and make no profit.",
+      "source": "constructed"
+    },
+    {
+      "term": "bricks-and-mortar",
+      "unit": "26",
+      "sentence": "E-commerce or e-tailing has even acted as a form of advertising and increased levels of business in our traditional bricks-and-mortar shops!",
+      "blank": "E-commerce or e-tailing has even acted as a form of advertising and increased levels of business in our traditional ____ shops!",
+      "source": "material"
+    },
+    {
+      "term": "business",
+      "unit": "26",
+      "sentence": "Business philosophies Total quality management Tom Dryden, of Dryden Vacuum Cleaners, believes in quality: ‘The specifications or specs of a product are exact instructions about its design, including its dimensions (size), how it is to be made, the materials to be used, etc.",
+      "blank": "____ philosophies Total quality management Tom Dryden, of Dryden Vacuum Cleaners, believes in quality: ‘The specifications or specs of a product are exact instructions about its design, including its dimensions (size), how it is to be made, the materials to be used, etc.",
+      "source": "material"
+    },
+    {
+      "term": "business-to-business (B2B)",
+      "unit": "26",
+      "sentence": "B2B, B2C and B2G Selling to the public on the Internet is business-to-consumer or B2C e-commerce.",
+      "blank": "____, B2C and B2G Selling to the public on the Internet is business-to-consumer or B2C e-commerce.",
+      "source": "material"
+    },
+    {
+      "term": "business-to-consumer (B2C)",
+      "unit": "26",
+      "sentence": "B2B, B2C and B2G Selling to the public on the Internet is business-to-consumer or B2C e-commerce.",
+      "blank": "B2B, ____ and B2G Selling to the public on the Internet is business-to-consumer or B2C e-commerce.",
+      "source": "material"
+    },
+    {
+      "term": "business-to-government (B2G)",
+      "unit": "26",
+      "sentence": "B2B, B2C and B2G Selling to the public on the Internet is business-to-consumer or B2C e-commerce.",
+      "blank": "B2B, B2C and ____ Selling to the public on the Internet is business-to-consumer or B2C e-commerce.",
+      "source": "material"
+    },
+    {
+      "term": "capital",
+      "unit": "17",
+      "sentence": "The others are labour (workers and managers) and capital (money).",
+      "blank": "The others are labour (workers and managers) and ____ (money).",
+      "source": "material"
+    },
+    {
+      "term": "cash",
+      "unit": "28, 29",
+      "sentence": "5 Which is the biggest money-spinner or cash cow, in terms of overall profit?",
+      "blank": "5 Which is the biggest money-spinner or ____ cow, in terms of overall profit?",
+      "source": "material"
+    },
+    {
+      "term": "cash cows",
+      "unit": "28",
+      "sentence": "5 Which is the biggest money-spinner or cash cow, in terms of overall profit?",
+      "blank": "5 Which is the biggest money-spinner or ____, in terms of overall profit?",
+      "source": "material"
+    },
+    {
+      "term": "cashflow",
+      "unit": "29",
+      "sentence": "This is part of controlling cash flow, the timing of payments coming into and going out of a business.’ Accounts Jennifer and Kathleen are businesswomen.",
+      "blank": "This is part of controlling ____, the timing of payments coming into and going out of a business.’ Accounts Jennifer and Kathleen are businesswomen.",
+      "source": "material"
+    },
+    {
+      "term": "charge",
+      "unit": "23, 30",
+      "sentence": "The four Ps The four Ps are product: deciding what to sell price: deciding what prices to charge place: deciding how it will be distributed and where people will buy it promotion: deciding how the product will be supported with advertising, special activities, etc.",
+      "blank": "The four Ps The four Ps are product: deciding what to sell price: deciding what prices to ____ place: deciding how it will be distributed and where people will buy it promotion: deciding how the product will be supported with advertising, special activities, etc.",
+      "source": "material"
+    },
+    {
+      "term": "cheap",
+      "unit": "23",
+      "sentence": "Permanently low pricing means we charge low prices all the time.” “You mean cheap: your goods are poor quality.",
+      "blank": "Permanently low pricing means we charge low prices all the time.” “You mean ____: your goods are poor quality.",
+      "source": "material"
+    },
+    {
+      "term": "clicks-and-mortar",
+      "unit": "26",
+      "sentence": "Clicks-and-mortar My name’s John, and I own a chain of sports shops.",
+      "blank": "____ My name’s John, and I own a chain of sports shops.",
+      "source": "material"
+    },
+    {
+      "term": "collateral",
+      "unit": "32",
+      "sentence": "One condition is that the borrower must have collateral or security: that is, if the borrower cannot repay the loan, the lender can take equipment or property, and sell it in order to get their money back.",
+      "blank": "One condition is that the borrower must have ____ or security: that is, if the borrower cannot repay the loan, the lender can take equipment or property, and sell it in order to get their money back.",
+      "source": "material"
+    },
+    {
+      "term": "cost",
+      "unit": "23, 27, 28",
+      "sentence": "Customers don’t need service.” “You must be selling some goods at cost (what you pay for them) or at a loss (even less).” “Yes.",
+      "blank": "Customers don’t need service.” “You must be selling some goods at ____ (what you pay for them) or at a loss (even less).” “Yes.",
+      "source": "material"
+    },
+    {
+      "term": "cost of goods sold (COGS)",
+      "unit": "27",
+      "sentence": "cost of goods sold (COGS): the variable costs in making particular goods (e.g.",
+      "blank": "____: the variable costs in making particular goods (e.g.",
+      "source": "material"
+    },
+    {
+      "term": "cost per unit",
+      "unit": "28",
+      "sentence": "Putting more students into classes can reduce the cost per unit.",
+      "blank": "Putting more students into classes can reduce the ____.",
+      "source": "material-adapted"
+    },
+    {
+      "term": "costing",
+      "unit": "27",
+      "sentence": "Costing is the activity of calculating costs.",
+      "blank": "____ is the activity of calculating costs.",
+      "source": "material"
+    },
+    {
+      "term": "costs",
+      "unit": "27",
+      "sentence": "Just-in-time Of course, it costs money to keep components and goods in stock: stocks have to be financed (paid for), stored (perhaps in special buildings: warehouses) and handled (moved from one place to another).",
+      "blank": "Just-in-time Of course, it ____ money to keep components and goods in stock: stocks have to be financed (paid for), stored (perhaps in special buildings: warehouses) and handled (moved from one place to another).",
+      "source": "material"
+    },
+    {
+      "term": "creative accounting",
+      "unit": "31",
+      "sentence": "When a company’s results are presented in a way that makes them look better than they really are, even if it follows the rules, it may be accused of creative accounting or window dressing.",
+      "blank": "When a company’s results are presented in a way that makes them look better than they really are, even if it follows the rules, it may be accused of ____ or window dressing.",
+      "source": "material"
+    },
+    {
+      "term": "credit policy",
+      "unit": "29",
+      "sentence": "Like all businesses, we have a credit policy, with payment terms: rules on when and how customers should pay.",
+      "blank": "Like all businesses, we have a ____, with payment terms: rules on when and how customers should pay.",
+      "source": "material"
+    },
+    {
+      "term": "creditors",
+      "unit": "29",
+      "sentence": "I must remember to pay tax to the Inland Revenue Service on time!” “The suppliers and other organizations that I owe money to are my creditors.",
+      "blank": "I must remember to pay tax to the Inland Revenue Service on time!” “The suppliers and other organizations that I owe money to are my ____.",
+      "source": "material"
+    },
+    {
+      "term": "current assets",
+      "unit": "30",
+      "sentence": "Assets, liabilities and the balance sheet Assets CURRENT ASSETS FIXED ASSETS INTANGIBLE ASSETS An asset is something that has value, or the power to earn money.",
+      "blank": "Assets, liabilities and the balance sheet Assets ____ FIXED ASSETS INTANGIBLE ASSETS An asset is something that has value, or the power to earn money.",
+      "source": "material"
+    },
+    {
+      "term": "current liabilities",
+      "unit": "30",
+      "sentence": "Debts that have to be paid within a year are current liabilities, and those payable in more than a year are long-term liabilities, for example bank loans.",
+      "blank": "Debts that have to be paid within a year are ____, and those payable in more than a year are long-term liabilities, for example bank loans.",
+      "source": "material"
+    },
+    {
+      "term": "debt",
+      "unit": "32",
+      "sentence": "Share capital and debt Capital Capital is the money that a company uses to operate and develop.",
+      "blank": "Share capital and ____ Capital Capital is the money that a company uses to operate and develop.",
+      "source": "material"
+    },
+    {
+      "term": "debtors",
+      "unit": "29",
+      "sentence": "These are my debtors.",
+      "blank": "These are my ____.",
+      "source": "material"
+    },
+    {
+      "term": "depreciate",
+      "unit": "30",
+      "sentence": "For example, when we buy new computers, we depreciate them or amortize them over a very short period, usually three years, and a charge for this is shown in the financial records: the value of the equipment is written down each year and written off completely at the end.’ The value of an asset at any one time is its book value.",
+      "blank": "For example, when we buy new computers, we ____ them or amortize them over a very short period, usually three years, and a charge for this is shown in the financial records: the value of the equipment is written down each year and written off completely at the end.’ The value of an asset at any one time is its book value.",
+      "source": "material"
+    },
+    {
+      "term": "depreciation",
+      "unit": "30",
+      "sentence": "Depreciation Joanna Cassidy is head of IT (Information Technology) in a publishing company: ‘Assets such as machinery and equipment lose value over time because they wear out, or are no longer up-to-date.",
+      "blank": "____ Joanna Cassidy is head of IT (Information Technology) in a publishing company: ‘Assets such as machinery and equipment lose value over time because they wear out, or are no longer up-to-date.",
+      "source": "material"
+    },
+    {
+      "term": "dividends",
+      "unit": "32",
+      "sentence": "Shareholders receive periodic payments called dividends, usually based on the company’s profit during the relevant period.",
+      "blank": "Shareholders receive periodic payments called ____, usually based on the company’s profit during the relevant period.",
+      "source": "material"
+    },
+    {
+      "term": "economies of scale",
+      "unit": "28",
+      "sentence": "Economies of scale and the learning curve Ford is one of the biggest car companies in the world.",
+      "blank": "____ and the learning curve Ford is one of the biggest car companies in the world.",
+      "source": "material"
+    },
+    {
+      "term": "equity",
+      "unit": "32",
+      "sentence": "Capital in the form of shares is also called equity.",
+      "blank": "Capital in the form of shares is also called ____.",
+      "source": "material"
+    },
+    {
+      "term": "exceptional profit",
+      "unit": "31",
+      "sentence": "An exceptional profit or loss is for something that is not normally repeated, for example the sale of a subsidiary company or the costs of restructuring.",
+      "blank": "An ____ or loss is for something that is not normally repeated, for example the sale of a subsidiary company or the costs of restructuring.",
+      "source": "material"
+    },
+    {
+      "term": "expenditure",
+      "unit": "28",
+      "sentence": "Budgets and expenditure Like all companies, Nordsee and Vaclav have to budget for, or plan, their costs, and have a budget.",
+      "blank": "Budgets and ____ Like all companies, Nordsee and Vaclav have to budget for, or plan, their costs, and have a budget.",
+      "source": "material"
+    },
+    {
+      "term": "expenses",
+      "unit": "27",
+      "sentence": "Some costs, especially indirect ones, are also called expenses.",
+      "blank": "Some costs, especially indirect ones, are also called ____.",
+      "source": "material"
+    },
+    {
+      "term": "experience curve",
+      "unit": "28",
+      "sentence": "The company also benefits from the experience curve or learning curve: as it produces more, it learns how to do things more and more quickly and efficiently.",
+      "blank": "The company also benefits from the ____ or learning curve: as it produces more, it learns how to do things more and more quickly and efficiently.",
+      "source": "material"
+    },
+    {
+      "term": "finished goods",
+      "unit": "17",
+      "sentence": "At any one time, Dryden has goods worth millions of dollars in its factories and warehouses: the products that have been made – its finished goods – and materials and components.",
+      "blank": "At any one time, Dryden has goods worth millions of dollars in its factories and warehouses: the products that have been made – its ____ – and materials and components.",
+      "source": "material"
+    },
+    {
+      "term": "fixed assets",
+      "unit": "30",
+      "sentence": "Assets, liabilities and the balance sheet Assets CURRENT ASSETS FIXED ASSETS INTANGIBLE ASSETS An asset is something that has value, or the power to earn money.",
+      "blank": "Assets, liabilities and the balance sheet Assets CURRENT ASSETS ____ INTANGIBLE ASSETS An asset is something that has value, or the power to earn money.",
+      "source": "material"
+    },
+    {
+      "term": "fixed costs",
+      "unit": "27",
+      "sentence": "fixed costs do not change when production goes up or down (e.g.",
+      "blank": "____ do not change when production goes up or down (e.g.",
+      "source": "material"
+    },
+    {
+      "term": "free gift",
+      "unit": "25",
+      "sentence": "(See Unit 23) a free gift: given with the product.",
+      "blank": "(See Unit 23) a ____: given with the product.",
+      "source": "material"
+    },
+    {
+      "term": "free sample",
+      "unit": "25",
+      "sentence": "a free sample: a small amount of the product to try or taste.",
+      "blank": "a ____: a small amount of the product to try or taste.",
+      "source": "material"
+    },
+    {
+      "term": "gross margin",
+      "unit": "27",
+      "sentence": "Margins and mark-ups Here are the calculations for one of Nordsee’s boats: selling price = 50,000 euros direct production costs = 35,000 euros selling price minus direct production costs = gross margin = 15,000 euros total costs = 40,000 euros selling price minus total costs = net margin, profit margin or mark-up = 10,000 euros The net margin or profit margin is usually given as a percentage of the selling price, in this case 20 per cent.",
+      "blank": "Margins and mark-ups Here are the calculations for one of Nordsee’s boats: selling price = 50,000 euros direct production costs = 35,000 euros selling price minus direct production costs = ____ = 15,000 euros total costs = 40,000 euros selling price minus total costs = net margin, profit margin or mark-up = 10,000 euros The net margin or profit margin is usually given as a percentage of the selling price, in this case 20 per cent.",
+      "source": "material"
+    },
+    {
+      "term": "gross profit",
+      "unit": "31",
+      "sentence": "(See Unit 34.) A company’s gross profit is before charges like these are taken away; its net profit is afterwards.",
+      "blank": "(See Unit 34.) A company’s ____ is before charges like these are taken away; its net profit is afterwards.",
+      "source": "material"
+    },
+    {
+      "term": "highly geared",
+      "unit": "32",
+      "sentence": "A company with a lot of borrowing in relation to its share capital is highly leveraged or highly geared.",
+      "blank": "A company with a lot of borrowing in relation to its share capital is highly leveraged or ____.",
+      "source": "material"
+    },
+    {
+      "term": "highly leveraged",
+      "unit": "32",
+      "sentence": "A company with a lot of borrowing in relation to its share capital is highly leveraged or highly geared.",
+      "blank": "A company with a lot of borrowing in relation to its share capital is ____ or highly geared.",
+      "source": "material"
+    },
+    {
+      "term": "in the red",
+      "unit": "31",
+      "sentence": "If a company is making a loss, commentators may say that it is in the red.",
+      "blank": "If a company is making a loss, commentators may say that it is ____.",
+      "source": "material"
+    },
+    {
+      "term": "income statement",
+      "unit": "31",
+      "sentence": "BrE: profit and loss account AmE: income statement Look at A and B opposite to find the answers to the crossword.",
+      "blank": "BrE: profit and loss account AmE: ____ Look at A and B opposite to find the answers to the crossword.",
+      "source": "material"
+    },
+    {
+      "term": "indebtedness",
+      "unit": "32",
+      "sentence": "The total amount of debt that a company has is its indebtedness.",
+      "blank": "The total amount of debt that a company has is its ____.",
+      "source": "material"
+    },
+    {
+      "term": "indirect costs",
+      "unit": "27",
+      "sentence": "indirect costs, overhead costs or overheads are not directly related to production (e.g.",
+      "blank": "____, overhead costs or overheads are not directly related to production (e.g.",
+      "source": "material"
+    },
+    {
+      "term": "interest",
+      "unit": "32",
+      "sentence": "The company has to pay interest, a percentage of the principal, to the borrower, whether it has made a profit in the relevant period or not.",
+      "blank": "The company has to pay ____, a percentage of the principal, to the borrower, whether it has made a profit in the relevant period or not.",
+      "source": "material"
+    },
+    {
+      "term": "invoice",
+      "unit": "29",
+      "sentence": "An invoice is a document asking for payment and showing the amount to pay.",
+      "blank": "An ____ is a document asking for payment and showing the amount to pay.",
+      "source": "material"
+    },
+    {
+      "term": "invoicing",
+      "unit": "29",
+      "sentence": "The activity of producing and sending invoices is invoicing or billing.",
+      "blank": "The activity of producing and sending invoices is ____ or billing.",
+      "source": "material"
+    },
+    {
+      "term": "just-in-time",
+      "unit": "17",
+      "sentence": "Just-in-time Of course, it costs money to keep components and goods in stock: stocks have to be financed (paid for), stored (perhaps in special buildings: warehouses) and handled (moved from one place to another).",
+      "blank": "____ Of course, it costs money to keep components and goods in stock: stocks have to be financed (paid for), stored (perhaps in special buildings: warehouses) and handled (moved from one place to another).",
+      "source": "material"
+    },
+    {
+      "term": "key accounts",
+      "unit": "29",
+      "sentence": "The most important ones are key accounts.” “The customers that I’m waiting to be paid by are my accounts receivable or receivables.” “The suppliers and other organizations that I owe money to are my accounts payable or payables.",
+      "blank": "The most important ones are ____.” “The customers that I’m waiting to be paid by are my accounts receivable or receivables.” “The suppliers and other organizations that I owe money to are my accounts payable or payables.",
+      "source": "material"
+    },
+    {
+      "term": "labour / labor",
+      "unit": "17",
+      "sentence": "The others are labour (workers and managers) and capital (money).",
+      "blank": "The others are ____ (workers and managers) and capital (money).",
+      "source": "material"
+    },
+    {
+      "term": "lean manufacturing",
+      "unit": "17",
+      "sentence": "This is part of lean production or lean manufacturing, making things efficiently: doing things as quickly and cheaply as possible, without waste.",
+      "blank": "This is part of lean production or ____, making things efficiently: doing things as quickly and cheaply as possible, without waste.",
+      "source": "material"
+    },
+    {
+      "term": "learning curve",
+      "unit": "28",
+      "sentence": "Economies of scale and the learning curve Ford is one of the biggest car companies in the world.",
+      "blank": "Economies of scale and the ____ Ford is one of the biggest car companies in the world.",
+      "source": "material"
+    },
+    {
+      "term": "leverage",
+      "unit": "32",
+      "sentence": "Leverage Many companies have both loan and share capital.",
+      "blank": "____ Many companies have both loan and share capital.",
+      "source": "material"
+    },
+    {
+      "term": "loan capital",
+      "unit": "32",
+      "sentence": "There are two main ways in which a company can raise capital, that is find the money it needs: it can use share capital or loan capital, from investors.",
+      "blank": "There are two main ways in which a company can raise capital, that is find the money it needs: it can use share capital or ____, from investors.",
+      "source": "material"
+    },
+    {
+      "term": "long-term liabilities",
+      "unit": "30",
+      "sentence": "Debts that have to be paid within a year are current liabilities, and those payable in more than a year are long-term liabilities, for example bank loans.",
+      "blank": "Debts that have to be paid within a year are current liabilities, and those payable in more than a year are ____, for example bank loans.",
+      "source": "material"
+    },
+    {
+      "term": "loss",
+      "unit": "28, 31",
+      "sentence": "Customers don’t need service.” “You must be selling some goods at cost (what you pay for them) or at a loss (even less).” “Yes.",
+      "blank": "Customers don’t need service.” “You must be selling some goods at cost (what you pay for them) or at a ____ (even less).” “Yes.",
+      "source": "material"
+    },
+    {
+      "term": "loss leader",
+      "unit": "28",
+      "sentence": "6 Which product may be a loss leader, to encourage furniture stores to buy other, profitable products?",
+      "blank": "6 Which product may be a ____, to encourage furniture stores to buy other, profitable products?",
+      "source": "material"
+    },
+    {
+      "term": "loss-making",
+      "unit": "28",
+      "sentence": "If a product is loss-making, the company should either raise the price or cut costs.",
+      "blank": "If a product is ____, the company should either raise the price or cut costs.",
+      "source": "constructed"
+    },
+    {
+      "term": "mark-up",
+      "unit": "27",
+      "sentence": "Margins and mark-ups Here are the calculations for one of Nordsee’s boats: selling price = 50,000 euros direct production costs = 35,000 euros selling price minus direct production costs = gross margin = 15,000 euros total costs = 40,000 euros selling price minus total costs = net margin, profit margin or mark-up = 10,000 euros The net margin or profit margin is usually given as a percentage of the selling price, in this case 20 per cent.",
+      "blank": "Margins and mark-ups Here are the calculations for one of Nordsee’s boats: selling price = 50,000 euros direct production costs = 35,000 euros selling price minus direct production costs = gross margin = 15,000 euros total costs = 40,000 euros selling price minus total costs = net margin, profit margin or ____ = 10,000 euros The net margin or profit margin is usually given as a percentage of the selling price, in this case 20 per cent.",
+      "source": "material"
+    },
+    {
+      "term": "net margin",
+      "unit": "27",
+      "sentence": "Margins and mark-ups Here are the calculations for one of Nordsee’s boats: selling price = 50,000 euros direct production costs = 35,000 euros selling price minus direct production costs = gross margin = 15,000 euros total costs = 40,000 euros selling price minus total costs = net margin, profit margin or mark-up = 10,000 euros The net margin or profit margin is usually given as a percentage of the selling price, in this case 20 per cent.",
+      "blank": "Margins and mark-ups Here are the calculations for one of Nordsee’s boats: selling price = 50,000 euros direct production costs = 35,000 euros selling price minus direct production costs = gross margin = 15,000 euros total costs = 40,000 euros selling price minus total costs = ____, profit margin or mark-up = 10,000 euros The net margin or profit margin is usually given as a percentage of the selling price, in this case 20 per cent.",
+      "source": "material"
+    },
+    {
+      "term": "net profit",
+      "unit": "31",
+      "sentence": "(See Unit 34.) A company’s gross profit is before charges like these are taken away; its net profit is afterwards.",
+      "blank": "(See Unit 34.) A company’s gross profit is before charges like these are taken away; its ____ is afterwards.",
+      "source": "material"
+    },
+    {
+      "term": "over budget",
+      "unit": "28",
+      "sentence": "Euros Actual expenditure Budget NORDSEE Nordsee went over budget and overspent by 200,000 euros.",
+      "blank": "Euros Actual expenditure Budget NORDSEE Nordsee went ____ and overspent by 200,000 euros.",
+      "source": "material"
+    },
+    {
+      "term": "overhead costs",
+      "unit": "27",
+      "sentence": "indirect costs, overhead costs or overheads are not directly related to production (e.g.",
+      "blank": "indirect costs, ____ or overheads are not directly related to production (e.g.",
+      "source": "material"
+    },
+    {
+      "term": "overleveraged",
+      "unit": "32",
+      "sentence": "A company that has difficulty in making payments on its debt is overleveraged.",
+      "blank": "A company that has difficulty in making payments on its debt is ____.",
+      "source": "material"
+    },
+    {
+      "term": "overspent",
+      "unit": "28",
+      "sentence": "Euros Actual expenditure Budget NORDSEE Nordsee went over budget and overspent by 200,000 euros.",
+      "blank": "Euros Actual expenditure Budget NORDSEE Nordsee went over budget and ____ by 200,000 euros.",
+      "source": "material"
+    },
+    {
+      "term": "payables",
+      "unit": "29",
+      "sentence": "The most important ones are key accounts.” “The customers that I’m waiting to be paid by are my accounts receivable or receivables.” “The suppliers and other organizations that I owe money to are my accounts payable or payables.",
+      "blank": "The most important ones are key accounts.” “The customers that I’m waiting to be paid by are my accounts receivable or receivables.” “The suppliers and other organizations that I owe money to are my accounts payable or ____.",
+      "source": "material"
+    },
+    {
+      "term": "payment terms",
+      "unit": "29",
+      "sentence": "Like all businesses, we have a credit policy, with payment terms: rules on when and how customers should pay.",
+      "blank": "Like all businesses, we have a credit policy, with ____: rules on when and how customers should pay.",
+      "source": "material"
+    },
+    {
+      "term": "pre-tax profit",
+      "unit": "31",
+      "sentence": "A pre-tax profit or a pre-tax loss is one before tax is calculated.",
+      "blank": "A ____ or a pre-tax loss is one before tax is calculated.",
+      "source": "material"
+    },
+    {
+      "term": "price",
+      "unit": "19, 21, 23",
+      "sentence": "The four Ps The four Ps are product: deciding what to sell price: deciding what prices to charge place: deciding how it will be distributed and where people will buy it promotion: deciding how the product will be supported with advertising, special activities, etc.",
+      "blank": "The four Ps The four Ps are product: deciding what to sell ____: deciding what prices to charge place: deciding how it will be distributed and where people will buy it promotion: deciding how the product will be supported with advertising, special activities, etc.",
+      "source": "material"
+    },
+    {
+      "term": "price cut",
+      "unit": "23",
+      "sentence": "3 Consumers will get a price cut of eight per cent off phone bills from May.",
+      "blank": "3 Consumers will get a ____ of eight per cent off phone bills from May.",
+      "source": "material-adapted"
+    },
+    {
+      "term": "price hike",
+      "unit": "23",
+      "sentence": "We have a policy of discounting, selling at a discount to the list price.” “If he goes on undercutting us, we can’t stay in business.” Word combinations with ‘price’ price boom – a good period for sellers, when prices are rising quickly controls – government efforts to limit price increases cut – a reduction in price hike – an increase in price war – when competing companies reduce prices in response to each other leader – a company that is first to reduce or increase prices tag – label attached to goods, showing the price; also means ‘price’ Upmarket and downmarket Products, for example skis, exist in different models.",
+      "blank": "We have a policy of discounting, selling at a discount to the list price.” “If he goes on undercutting us, we can’t stay in business.” Word combinations with ‘price’ price boom – a good period for sellers, when prices are rising quickly controls – government efforts to limit price increases cut – a reduction in ____ – an increase in price war – when competing companies reduce prices in response to each other leader – a company that is first to reduce or increase prices tag – label attached to goods, showing the price; also means ‘price’ Upmarket and downmarket Products, for example skis, exist in different models.",
+      "source": "material"
+    },
+    {
+      "term": "price war",
+      "unit": "23",
+      "sentence": "We have a policy of discounting, selling at a discount to the list price.” “If he goes on undercutting us, we can’t stay in business.” Word combinations with ‘price’ price boom – a good period for sellers, when prices are rising quickly controls – government efforts to limit price increases cut – a reduction in price hike – an increase in price war – when competing companies reduce prices in response to each other leader – a company that is first to reduce or increase prices tag – label attached to goods, showing the price; also means ‘price’ Upmarket and downmarket Products, for example skis, exist in different models.",
+      "blank": "We have a policy of discounting, selling at a discount to the list price.” “If he goes on undercutting us, we can’t stay in business.” Word combinations with ‘price’ price boom – a good period for sellers, when prices are rising quickly controls – government efforts to limit price increases cut – a reduction in price hike – an increase in ____ – when competing companies reduce prices in response to each other leader – a company that is first to reduce or increase prices tag – label attached to goods, showing the price; also means ‘price’ Upmarket and downmarket Products, for example skis, exist in different models.",
+      "source": "material"
+    },
+    {
+      "term": "principal",
+      "unit": "32",
+      "sentence": "The sum of money borrowed is the principal.",
+      "blank": "The sum of money borrowed is the ____.",
+      "source": "material"
+    },
+    {
+      "term": "profit and loss account",
+      "unit": "31",
+      "sentence": "This contains, among other things, a profit and loss account.",
+      "blank": "This contains, among other things, a ____.",
+      "source": "material"
+    },
+    {
+      "term": "profit margin",
+      "unit": "27",
+      "sentence": "Margins and mark-ups Here are the calculations for one of Nordsee’s boats: selling price = 50,000 euros direct production costs = 35,000 euros selling price minus direct production costs = gross margin = 15,000 euros total costs = 40,000 euros selling price minus total costs = net margin, profit margin or mark-up = 10,000 euros The net margin or profit margin is usually given as a percentage of the selling price, in this case 20 per cent.",
+      "blank": "Margins and mark-ups Here are the calculations for one of Nordsee’s boats: selling price = 50,000 euros direct production costs = 35,000 euros selling price minus direct production costs = gross margin = 15,000 euros total costs = 40,000 euros selling price minus total costs = net margin, ____ or mark-up = 10,000 euros The net margin or profit margin is usually given as a percentage of the selling price, in this case 20 per cent.",
+      "source": "material"
+    },
+    {
+      "term": "profitability",
+      "unit": "28",
+      "sentence": "Profitability and unprofitability Profitable and unprofitable products A supermarket manager talks about the costs and prices for some of its products.",
+      "blank": "____ and unprofitability Profitable and unprofitable products A supermarket manager talks about the costs and prices for some of its products.",
+      "source": "material"
+    },
+    {
+      "term": "profitable",
+      "unit": "28",
+      "sentence": "A niche or niche market is a small group of buyers with special needs, which may be profitable to sell to.",
+      "blank": "A niche or niche market is a small group of buyers with special needs, which may be ____ to sell to.",
+      "source": "material"
+    },
+    {
+      "term": "raise capital",
+      "unit": "32",
+      "sentence": "There are two main ways in which a company can raise capital, that is find the money it needs: it can use share capital or loan capital, from investors.",
+      "blank": "There are two main ways in which a company can ____, that is find the money it needs: it can use share capital or loan capital, from investors.",
+      "source": "material"
+    },
+    {
+      "term": "reach break-even point",
+      "unit": "28",
+      "sentence": "The new product should reach break-even point within six months, after covering all fixed costs.",
+      "blank": "The new product should ____ within six months, after covering all fixed costs.",
+      "source": "constructed"
+    },
+    {
+      "term": "red ink",
+      "unit": "31",
+      "sentence": "They may also use expressions with red ink, saying, for example, that a company is bleeding red ink or haemorrhaging red ink.",
+      "blank": "They may also use expressions with ____, saying, for example, that a company is bleeding red ink or haemorrhaging red ink.",
+      "source": "material"
+    },
+    {
+      "term": "revenue",
+      "unit": "27",
+      "sentence": "Denise van Beek of Nordsee Marine is having a sales meeting with her sales team: ‘Our sales figures and turnover (money received from sales) in the last year are good, with revenue (money from sales) of 14.5 million euros, on volume of 49 boats.",
+      "blank": "Denise van Beek of Nordsee Marine is having a sales meeting with her sales team: ‘Our sales figures and turnover (money received from sales) in the last year are good, with ____ (money from sales) of 14.5 million euros, on volume of 49 boats.",
+      "source": "material"
+    },
+    {
+      "term": "sale",
+      "unit": "27",
+      "sentence": "Promotional activities Promotion (uncountable) is all the activities supporting the sale of a product, including advertising.",
+      "blank": "Promotional activities Promotion (uncountable) is all the activities supporting the ____ of a product, including advertising.",
+      "source": "material"
+    },
+    {
+      "term": "sales figures",
+      "unit": "27",
+      "sentence": "Denise van Beek of Nordsee Marine is having a sales meeting with her sales team: ‘Our sales figures and turnover (money received from sales) in the last year are good, with revenue (money from sales) of 14.5 million euros, on volume of 49 boats.",
+      "blank": "Denise van Beek of Nordsee Marine is having a sales meeting with her sales team: ‘Our ____ and turnover (money received from sales) in the last year are good, with revenue (money from sales) of 14.5 million euros, on volume of 49 boats.",
+      "source": "material"
+    },
+    {
+      "term": "sales forecast",
+      "unit": "27",
+      "sentence": "We estimate our sales growth next year at ten per cent, as the world economy looks good and there is demand for our products, so my sales forecast is nearly 16 million euros for next year.",
+      "blank": "We estimate our sales growth next year at ten per cent, as the world economy looks good and there is demand for our products, so my ____ is nearly 16 million euros for next year.",
+      "source": "material"
+    },
+    {
+      "term": "share capital",
+      "unit": "32",
+      "sentence": "Share capital and debt Capital Capital is the money that a company uses to operate and develop.",
+      "blank": "____ and debt Capital Capital is the money that a company uses to operate and develop.",
+      "source": "material"
+    },
+    {
+      "term": "shareholders",
+      "unit": "32",
+      "sentence": "(See Unit 36) Share capital Share capital is contributed by shareholders who put up money and hold shares in the company.",
+      "blank": "(See Unit 36) Share capital Share capital is contributed by ____ who put up money and hold shares in the company.",
+      "source": "material"
+    },
+    {
+      "term": "trade credit",
+      "unit": "29",
+      "sentence": "Trade credit Vaclav is talking about his furniture business: ‘Of course, we don’t expect our business customers to pay immediately.",
+      "blank": "____ Vaclav is talking about his furniture business: ‘Of course, we don’t expect our business customers to pay immediately.",
+      "source": "material"
+    },
+    {
+      "term": "trade up",
+      "unit": "23",
+      "sentence": "If you buy sophisticated skis to replace basic ones, you trade up and move upmarket.",
+      "blank": "If you buy sophisticated skis to replace basic ones, you ____ and move upmarket.",
+      "source": "material"
+    },
+    {
+      "term": "trade down",
+      "unit": "23",
+      "sentence": "If you buy cheaper skis after buying more expensive ones, you trade down and move downmarket.",
+      "blank": "If you buy cheaper skis after buying more expensive ones, you ____ and move downmarket.",
+      "source": "material"
+    },
+    {
+      "term": "turnover",
+      "unit": "27",
+      "sentence": "Denise van Beek of Nordsee Marine is having a sales meeting with her sales team: ‘Our sales figures and turnover (money received from sales) in the last year are good, with revenue (money from sales) of 14.5 million euros, on volume of 49 boats.",
+      "blank": "Denise van Beek of Nordsee Marine is having a sales meeting with her sales team: ‘Our sales figures and ____ (money received from sales) in the last year are good, with revenue (money from sales) of 14.5 million euros, on volume of 49 boats.",
+      "source": "material"
+    },
+    {
+      "term": "under budget",
+      "unit": "28",
+      "sentence": "He was under budget.",
+      "blank": "He was ____.",
+      "source": "material"
+    },
+    {
+      "term": "window dressing",
+      "unit": "31",
+      "sentence": "When a company’s results are presented in a way that makes them look better than they really are, even if it follows the rules, it may be accused of creative accounting or window dressing.",
+      "blank": "When a company’s results are presented in a way that makes them look better than they really are, even if it follows the rules, it may be accused of creative accounting or ____.",
+      "source": "material"
+    },
+    {
+      "term": "written down",
+      "unit": "30",
+      "sentence": "For example, when we buy new computers, we depreciate them or amortize them over a very short period, usually three years, and a charge for this is shown in the financial records: the value of the equipment is written down each year and written off completely at the end.’ The value of an asset at any one time is its book value.",
+      "blank": "For example, when we buy new computers, we depreciate them or amortize them over a very short period, usually three years, and a charge for this is shown in the financial records: the value of the equipment is ____ each year and written off completely at the end.’ The value of an asset at any one time is its book value.",
+      "source": "material"
+    },
+    {
+      "term": "written off",
+      "unit": "29",
+      "sentence": "For example, when we buy new computers, we depreciate them or amortize them over a very short period, usually three years, and a charge for this is shown in the financial records: the value of the equipment is written down each year and written off completely at the end.’ The value of an asset at any one time is its book value.",
+      "blank": "For example, when we buy new computers, we depreciate them or amortize them over a very short period, usually three years, and a charge for this is shown in the financial records: the value of the equipment is written down each year and ____ completely at the end.’ The value of an asset at any one time is its book value.",
+      "source": "material"
+    }
+  ]
+}
