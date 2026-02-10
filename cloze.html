@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="et">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lünkharjutus • EN↔EE sõnavara (U17–32)</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="wrap">
+    <h1>Lünkharjutus <span class="muted">(U17–32)</span></h1>
+    <p class="muted">Täida lünk puuduva ingliskeelse terminiga. Valikud tulevad etteantud sõnavarast.</p>
+    <p class="muted small"><a href="./index.html">← tagasi flashcards/quiz</a></p>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <div class="row">
+        <label>
+          Küsimusi
+          <select id="count">
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+            <option value="all">Kõik (121)</option>
+          </select>
+        </label>
+
+        <label>
+          Segajate stiil
+          <select id="distractors">
+            <option value="unit">Sama unit (kui võimalik)</option>
+            <option value="all">Kõik sõnad</option>
+          </select>
+        </label>
+
+        <button id="startBtn" class="btn" type="button">Alusta</button>
+        <button id="shuffleBtn" class="btn secondary" type="button">Sega</button>
+      </div>
+
+      <div class="divider"></div>
+      <div id="status" class="muted small">Laen andmeid…</div>
+    </section>
+
+    <section class="card" id="game" hidden>
+      <div class="cardTop">
+        <div class="pill" id="counter">—</div>
+        <div class="pill" id="score">Tulemus: 0</div>
+      </div>
+
+      <div class="qblock">
+        <div class="prompt" id="sentence">—</div>
+        <div class="muted small" id="hint" style="margin-top:10px"></div>
+        <div class="divider"></div>
+        <div class="muted small" id="filled" style="margin-top:10px"></div>
+        <div class="muted small" id="translation" style="margin-top:6px"></div>
+        <div id="options" class="options"></div>
+      </div>
+
+      <div class="row">
+        <button id="nextBtn" class="btn" type="button" disabled>Järgmine →</button>
+        <button id="restartBtn" class="btn secondary" type="button">Alusta uuesti</button>
+      </div>
+
+      <p class="muted small">Märkus: osa lauseid on õpetaja loodud, et kõik 121 terminit oleks loogilises kontekstis.</p>
+    </section>
+  </main>
+
+  <script src="cloze.js?v=3"></script>
+</body>
+</html>
